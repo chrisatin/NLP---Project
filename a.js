@@ -377,7 +377,7 @@ async function run() {
   console.log('allContent', allContent)
   console.log('done!')
   console.log(
-    `Congrats! 🎉 You scraped a sh*t ton of posts! If you need any custom scrapers built, email me: adrian@thewebscrapingguy.com`,
+    `Congrats! 🎉 You scraped a sh*t ton of posts!`,
   )
 }
 
