@@ -24,6 +24,7 @@ NLP---Project/
 ├── 📁 src/                           # Código fuente
 │   ├── 📁 analysis/                  # Análisis y modelos de ML/NLP
 │   │   ├── gender_analysis.ipynb     # Análisis y clasificación de género
+|   |   ├── mutual_words.ipynb        # Conteo de palabras y frases en publicaciones
 │   │   └── sentiment_analysis.ipynb  # Análisis de sentimientos
 │   │   
 │   └── 📁 scrapers/                  # Scripts de web scraping
@@ -62,6 +63,8 @@ NLP---Project/
 3. **Instalar dependencias**
    ```bash
    pip install -r requirements.txt
+   # Requisitos adicionales (descargar manualmente)
+   python -m spacy download es_core_news_md
    ```
 
 4. **Configurar variables de entorno**
