@@ -4,10 +4,10 @@ Un proyecto de procesamiento de lenguaje natural enfocado en el análisis de sen
 
 ## 🎯 Objetivos
 
+- **Extracción de Datos**: Automatizar la recopilación de datos de plataformas sociales
+- **Clasificación de Género**: Determinar el género de usuarios basado en patrones lingüísticos
 - **Análisis de Sentimientos**: Evaluar las emociones y polaridad en publicaciones y comentarios de redes sociales
 - **Detección de Toxicidad**: Identificar contenido tóxico o dañino en interacciones digitales
-- **Clasificación de Género**: Determinar el género de usuarios basado en patrones lingüísticos
-- **Extracción de Datos**: Automatizar la recopilación de datos de plataformas sociales
 
 ## 🏗️ Estructura del Proyecto
 
@@ -92,7 +92,7 @@ Este proyecto está bajo la Licencia Apache 2.0. Ver el archivo `LICENSE` para m
 - Alejandro
 - Christian Orduz
 - Miguel
-- Sergio
+- Sergio Hernández
 
 **Semillero de Investigación en Computer Vision - UIS**
 - Universidad Industrial de Santander
