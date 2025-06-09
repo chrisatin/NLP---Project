@@ -46,3 +46,15 @@ urllib3==2.4.0
 wcwidth==0.2.13
 websocket-client==1.8.0
 wsproto==1.2.0
+
+# Data Analysis and Visualization
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Gemini AI
+google-generativeai>=0.3.0
+
+# Progress bars and utilities
+tqdm>=4.65.0
