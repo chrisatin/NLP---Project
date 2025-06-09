@@ -89,9 +89,9 @@ Este proyecto está bajo la Licencia Apache 2.0. Ver el archivo `LICENSE` para m
 ## 👥 Equipo
 
 **Integrantes**
-- Alejandro
+- Alejandro Moreno
 - Christian Orduz
-- Miguel
+- Miguel Ayala
 - Sergio Hernández
 
 **Semillero de Investigación en Computer Vision - UIS**
