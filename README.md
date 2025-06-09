@@ -95,7 +95,7 @@ Este proyecto está bajo la Licencia Apache 2.0. Ver el archivo `LICENSE` para m
 - Alejandro
 - Christian Orduz
 - Miguel Ayala
-- Sergio
+- Sergio Hernández
 
 **Semillero de Investigación en Computer Vision - UIS**
 - Universidad Industrial de Santander
